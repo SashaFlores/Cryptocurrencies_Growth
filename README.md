@@ -32,11 +32,14 @@ If invested in S&P 500, I would end up after 5 years with  7,872 USD.
 
 Therefore, we better off investing in cryptos in terms of returns. Moreover, We want to calculate the annual standard deviations and their correlations: 
 
-XRP       1.180363 \
-ETH       1.081535 \
-BTC       0.673042 \
-S&P500    0.194288 \
-GLD       0.134523 \
+| Ticker  | Annual Std |
+| --------| -----------|
+| XRP     |    1.1803  |
+| ETH     |    1.0815  |
+| BTC     |    0.6730  |
+| S&P 500 |    0.1942  |
+| GLD     |    0.1345  |
+
 
 ![markdown-image4](Image/corr.png)
 
