@@ -2,7 +2,7 @@
 
 ## Part I. Cryptocurrency Investment Performance Analysis
 
-In this section, we chose to analyze the top 3 cryptocurrencies by market cap as an investment. With this data in mind, we aimed to answer the following question:
+In this section, we chose to analyze the top 3 cryptocurrencies as an investment. With this data in mind, we aimed to answer the following question:
 
 ### Are cryptocurrencies performing and growing in popularity in comparison with the traditional equities market?
 
@@ -22,7 +22,7 @@ Based on the extreme volatility shown in the previous daily return graph, it is 
 
 ![markdown-image3](Image/p1_cum_single_plot.png)
 
-Let's the numbers in dollar terms and the investment returns if we start with 5000 USD: 
+Let's take a look at the investment returns if we start with 5000 USD, how much roughly we will end with: 
 
 If invested in Bitcoin, I would end up after 5 years with 119,720 USD; <br />
 If invested in Etherum, I would end up after 5 years with 485,796 USD; <br />
