@@ -24,10 +24,10 @@ Based on the extreme volatility shown in the previous daily return graph, it is 
 
 Let's the numbers in dollar terms and the investment returns if we start with 5000 USD: 
 
-If invested in Bitcoin, I would end up after 5 years with 119,720 USD;
-If invested in Etherum, I would end up after 5 years with 485,796 USD;
-If invested in Ripple, I would end up after 5 years with  142,216 USD; 
-If invested in Gold, I would end up after 5 years with 8,860 USD; 
+If invested in Bitcoin, I would end up after 5 years with 119,720 USD; <br />
+If invested in Etherum, I would end up after 5 years with 485,796 USD; <br />
+If invested in Ripple, I would end up after 5 years with  142,216 USD; <br />
+If invested in Gold, I would end up after 5 years with 8,860 USD; <br />
 If invested in S&P 500, I would end up after 5 years with  7,872 USD.
 
 Therefore, we better off investing in cryptos in terms of returns. Moreover, We want to calculate the annual standard deviations and their correlations: 
