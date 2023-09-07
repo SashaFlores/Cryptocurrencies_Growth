@@ -1,4 +1,4 @@
-# Team 4 Group Project: Cryptocurrency Growth Against Other Assets in Today's Macroeconomic Environment
+# Project Narrative: Cryptocurrency Growth Against Other Assets in Today's Macroeconomic Environment
 
 ## Table of Contents
 * [Introduction](#introduction)
